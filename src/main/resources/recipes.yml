@@ -1,0 +1,18 @@
+recipes:
+  stone:
+    values:
+      A: minecraft:stone
+      B: minerals_pack:iridium
+    recipe:
+      - "ABA"
+      - "B B"
+      - "ABA"
+    result: minecraft:stone
+  diamond_block:
+    values:
+      A: minecraft:diamond
+    recipe:
+      - "AAA"
+      - "A A"
+      - "AAA"
+    result: minecraft:diamond_block

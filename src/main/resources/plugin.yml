@@ -1,0 +1,20 @@
+name: OriginCrafting
+version: '1.0'
+main: me.eightballcreates.originCrafting.OriginCrafting
+api-version: '1.20'
+commands:
+  crafting:
+    description: Main command for OriginCrafting
+    usage: |
+      /crafting reload - Reload recipes
+      /crafting create <name> - Create new recipe
+    aliases: [origincrafting]  # Keep original command as alias
+permissions:
+  origin.crafting.reload:
+    description: Allows reloading recipes
+    default: op
+  origin.crafting.create:
+    description: Allows creating new recipes
+    default: op
+depend:
+  - ItemsAdder
