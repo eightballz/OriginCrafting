@@ -11,4 +11,4 @@ Origin Crafting is a Minecraft Bukkit Plugin created in Kotlin for the Origin Ze
 ## Support
 DM @eightballz0 on discord for support relating to OriginCrafting. Feel free to use the source code in whatever way you would like. 
 
-#- Handcrafted by @eightballz0
+**Handcrafted by @eightballz0**
