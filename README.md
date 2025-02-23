@@ -8,6 +8,11 @@ Origin Crafting is a Minecraft Bukkit Plugin created in Kotlin for the Origin Ze
 - Recipe book displaying every custom recipe made in a clean, organized way
 - ItemsAdder support for custom items
 
+## Roadmap
+- Shapeless recipes
+- GUI recipe editor
+- Item Rarities
+
 ## Support
 DM @eightballz0 on discord for support relating to OriginCrafting. Feel free to use the source code in whatever way you would like. 
 
