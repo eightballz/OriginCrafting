@@ -8,7 +8,7 @@ commands:
     usage: |
       /crafting reload - Reload recipes
       /crafting create <name> - Create new recipe
-    aliases: [origincrafting]  # Keep original command as alias
+    aliases: [origincrafting]
 permissions:
   origin.crafting.reload:
     description: Allows reloading recipes
